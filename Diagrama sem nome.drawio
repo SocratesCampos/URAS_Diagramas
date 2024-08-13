@@ -1,148 +1,89 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
-  <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
-    <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+  <diagram id="l2aKFoh6-Bn0gOPZ2l0T" name="Page-1">
+    <mxGraphModel dx="2370" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7d933b09d9755ecc-14" value="Resource forest" style="triangle;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;direction=north;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="830" y="230" width="530" height="537" as="geometry" />
+        <mxCell id="mpq5AgpwV83IM184FDqD-13" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7316.svg;html=1;labelBackgroundColor=#ffffff;rackUnitSize=16.7;resizable=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="170" width="178" height="347" as="geometry" />
         </mxCell>
-        <mxCell id="7d933b09d9755ecc-12" value="User forest" style="triangle;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;direction=north;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="400" y="92" width="286" height="340" as="geometry" />
+        <mxCell id="mpq5AgpwV83IM184FDqD-14" value="" style="opacity=0;container=1;collapsible=0;childLayout=rack;rackUnitSize=16.7;allowGaps=1;marginLeft=0;marginRight=0;marginTop=0;marginBottom=0;textColor=#666666;numDisp=off;resizable=0;movable=0;" vertex="1" parent="mpq5AgpwV83IM184FDqD-13">
+          <mxGeometry x="8" y="10" width="162" height="133.6" as="geometry" />
         </mxCell>
-        <mxCell id="7d933b09d9755ecc-13" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="473" y="326" width="142" height="94" as="geometry" />
+        <mxCell id="mpq5AgpwV83IM184FDqD-18" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7050QX-32.svg;aspect=fixed;" vertex="1" parent="mpq5AgpwV83IM184FDqD-14">
+          <mxGeometry width="162" height="16.7" as="geometry" />
         </mxCell>
-        <mxCell id="7d933b09d9755ecc-4" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.directory_server;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="1063" y="64" width="65" height="88.5" as="geometry" />
+        <mxCell id="mpq5AgpwV83IM184FDqD-19" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7050SX-128.svg;aspect=fixed;" vertex="1" parent="mpq5AgpwV83IM184FDqD-14">
+          <mxGeometry y="16.7" width="162" height="33.4" as="geometry" />
         </mxCell>
-        <mxCell id="7d933b09d9755ecc-5" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.file_server;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="1053" y="611" width="71" height="97" as="geometry" />
+        <mxCell id="mpq5AgpwV83IM184FDqD-20" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7250QX-64.svg;aspect=fixed;" vertex="1" parent="mpq5AgpwV83IM184FDqD-14">
+          <mxGeometry y="50.099999999999994" width="162" height="33.4" as="geometry" />
         </mxCell>
-        <mxCell id="7d933b09d9755ecc-6" value="Users" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.users;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="511" y="339" width="64.5" height="55" as="geometry" />
+        <mxCell id="mpq5AgpwV83IM184FDqD-21" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7280SE-64.svg;aspect=fixed;" vertex="1" parent="mpq5AgpwV83IM184FDqD-14">
+          <mxGeometry y="83.5" width="162" height="16.7" as="geometry" />
         </mxCell>
-        <mxCell id="7d933b09d9755ecc-9" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="511" y="193" width="65" height="85" as="geometry" />
+        <mxCell id="mpq5AgpwV83IM184FDqD-22" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7280SE-68.svg;aspect=fixed;" vertex="1" parent="mpq5AgpwV83IM184FDqD-14">
+          <mxGeometry y="100.19999999999999" width="162" height="16.7" as="geometry" />
         </mxCell>
-        <mxCell id="7d933b09d9755ecc-15" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="979" y="440" width="220" height="140" as="geometry" />
+        <mxCell id="mpq5AgpwV83IM184FDqD-15" value="" style="opacity=0;container=1;collapsible=0;childLayout=rack;rackUnitSize=16.7;allowGaps=1;marginLeft=0;marginRight=0;marginTop=0;marginBottom=0;textColor=#666666;numDisp=off;resizable=0;movable=0;" vertex="1" parent="mpq5AgpwV83IM184FDqD-13">
+          <mxGeometry x="8" y="164" width="162" height="133.6" as="geometry" />
         </mxCell>
-        <mxCell id="7d933b09d9755ecc-16" value="Disabled users" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.users;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="1060" y="477" width="64.5" height="55" as="geometry" />
+        <mxCell id="mpq5AgpwV83IM184FDqD-25" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7050S-52.svg;aspect=fixed;" vertex="1" parent="mpq5AgpwV83IM184FDqD-15">
+          <mxGeometry width="162" height="16.7" as="geometry" />
         </mxCell>
-        <mxCell id="7d933b09d9755ecc-17" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="1060" y="331" width="65" height="85" as="geometry" />
+        <mxCell id="mpq5AgpwV83IM184FDqD-26" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7050S-52.svg;aspect=fixed;" vertex="1" parent="mpq5AgpwV83IM184FDqD-15">
+          <mxGeometry y="16.7" width="162" height="16.7" as="geometry" />
         </mxCell>
-        <mxCell id="7d933b09d9755ecc-18" value="User forest" style="triangle;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;direction=north;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="1580" y="76" width="286" height="340" as="geometry" />
+        <mxCell id="mpq5AgpwV83IM184FDqD-27" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7500E-12CQ-LC.svg;aspect=fixed;" vertex="1" parent="mpq5AgpwV83IM184FDqD-15">
+          <mxGeometry y="33.4" width="162" height="16.7" as="geometry" />
         </mxCell>
-        <mxCell id="7d933b09d9755ecc-19" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="1653" y="310" width="142" height="90" as="geometry" />
+        <mxCell id="mpq5AgpwV83IM184FDqD-28" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7500E-12CM-LC.svg;aspect=fixed;" vertex="1" parent="mpq5AgpwV83IM184FDqD-15">
+          <mxGeometry y="50.099999999999994" width="162" height="16.7" as="geometry" />
         </mxCell>
-        <mxCell id="7d933b09d9755ecc-20" value="Users" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.users;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="1691" y="323" width="64.5" height="55" as="geometry" />
+        <mxCell id="mpq5AgpwV83IM184FDqD-16" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7308.svg;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;container=1;collapsible=0;childLayout=rack;rackUnitSize=16.7;allowGaps=1;marginLeft=8;marginRight=8;marginTop=27;marginBottom=22;textColor=#666666;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="304" width="178" height="214.58" as="geometry" />
         </mxCell>
-        <mxCell id="7d933b09d9755ecc-21" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="1691" y="177" width="65" height="85" as="geometry" />
+        <mxCell id="mpq5AgpwV83IM184FDqD-30" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7050Q-16.svg;aspect=fixed;" vertex="1" parent="mpq5AgpwV83IM184FDqD-16">
+          <mxGeometry x="8" y="27" width="162" height="16.7" as="geometry" />
         </mxCell>
-        <mxCell id="7d933b09d9755ecc-22" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=block;endFill=1;strokeColor=#0000FF;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" source="7d933b09d9755ecc-19" target="7d933b09d9755ecc-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="mpq5AgpwV83IM184FDqD-32" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7050Q-16.svg;aspect=fixed;" vertex="1" parent="mpq5AgpwV83IM184FDqD-16">
+          <mxGeometry x="8" y="60.4" width="162" height="16.7" as="geometry" />
         </mxCell>
-        <mxCell id="7d933b09d9755ecc-23" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=block;endFill=1;strokeColor=#0000FF;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" source="7d933b09d9755ecc-13" target="7d933b09d9755ecc-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="mpq5AgpwV83IM184FDqD-31" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7050Q-16.svg;aspect=fixed;" vertex="1" parent="mpq5AgpwV83IM184FDqD-16">
+          <mxGeometry x="8" y="43.7" width="162" height="16.7" as="geometry" />
         </mxCell>
-        <mxCell id="7d933b09d9755ecc-24" style="edgeStyle=none;rounded=0;html=1;exitX=0.5;exitY=1;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=block;endFill=1;strokeColor=#0000FF;strokeWidth=1;fontFamily=Verdana;fontSize=12;fontColor=#000000;" parent="1" source="7d933b09d9755ecc-15" target="7d933b09d9755ecc-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="mpq5AgpwV83IM184FDqD-33" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7010T-48.svg;aspect=fixed;" vertex="1" parent="mpq5AgpwV83IM184FDqD-16">
+          <mxGeometry x="8" y="77.1" width="162" height="16.7" as="geometry" />
         </mxCell>
-        <mxCell id="7d933b09d9755ecc-25" value="Trust relationship" style="html=1;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=block;endFill=1;strokeColor=#FF0000;strokeWidth=1;fontFamily=Verdana;fontSize=12;entryX=1;entryY=0.5;curved=1;" parent="1" target="7d933b09d9755ecc-18" edge="1">
-          <mxGeometry x="-0.0165" y="-10" relative="1" as="geometry">
-            <mxPoint x="1095" y="230" as="sourcePoint" />
-            <mxPoint x="1530" y="240" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1400" y="110" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="mpq5AgpwV83IM184FDqD-35" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7050TX-128.svg;aspect=fixed;" vertex="1" parent="mpq5AgpwV83IM184FDqD-16">
+          <mxGeometry x="8" y="110.5" width="162" height="33.4" as="geometry" />
         </mxCell>
-        <mxCell id="7d933b09d9755ecc-26" value="Trust relationship" style="html=1;entryX=1;entryY=0.5;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=block;endFill=1;strokeColor=#FF0000;strokeWidth=1;fontFamily=Verdana;fontSize=12;curved=1;" parent="1" target="7d933b09d9755ecc-12" edge="1">
-          <mxGeometry x="-0.0644" y="45" relative="1" as="geometry">
-            <mxPoint x="1095" y="230" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="920" y="120" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="mpq5AgpwV83IM184FDqD-34" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7010T-48.svg;aspect=fixed;" vertex="1" parent="mpq5AgpwV83IM184FDqD-16">
+          <mxGeometry x="8" y="93.8" width="162" height="16.7" as="geometry" />
         </mxCell>
-        <mxCell id="7d933b09d9755ecc-27" value="Synchronization" style="rounded=0;html=1;entryX=0.878;entryY=0.433;entryPerimeter=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=block;endFill=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" source="7d933b09d9755ecc-4" target="7d933b09d9755ecc-18" edge="1">
-          <mxGeometry x="-0.3348" y="21" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="mpq5AgpwV83IM184FDqD-36" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7150S-24.svg;aspect=fixed;" vertex="1" parent="mpq5AgpwV83IM184FDqD-16">
+          <mxGeometry x="8" y="143.89999999999998" width="162" height="16.7" as="geometry" />
         </mxCell>
-        <mxCell id="7d933b09d9755ecc-28" value="Synchronization" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=block;endFill=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" source="7d933b09d9755ecc-4" target="7d933b09d9755ecc-14" edge="1">
-          <mxGeometry x="-0.2966" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="mpq5AgpwV83IM184FDqD-17" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7304.svg;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;container=1;collapsible=0;childLayout=rack;rackUnitSize=16.7;allowGaps=1;marginLeft=8;marginRight=8;marginTop=27;marginBottom=22;textColor=#666666;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="560" y="387" width="178" height="131.79" as="geometry" />
         </mxCell>
-        <mxCell id="7d933b09d9755ecc-29" value="Synchronization" style="edgeStyle=none;rounded=0;html=1;entryX=0.912;entryY=0.559;entryPerimeter=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=block;endFill=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" source="7d933b09d9755ecc-4" target="7d933b09d9755ecc-12" edge="1">
-          <mxGeometry x="-0.1948" y="-14" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="mpq5AgpwV83IM184FDqD-37" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7500E-12CM-LC.svg;aspect=fixed;" vertex="1" parent="mpq5AgpwV83IM184FDqD-17">
+          <mxGeometry x="8" y="27" width="162" height="16.7" as="geometry" />
         </mxCell>
-        <mxCell id="7d933b09d9755ecc-31" value="User forest" style="triangle;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;direction=north;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="483" y="477" width="286" height="340" as="geometry" />
+        <mxCell id="mpq5AgpwV83IM184FDqD-38" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7500E-12CQ-LC.svg;aspect=fixed;" vertex="1" parent="mpq5AgpwV83IM184FDqD-17">
+          <mxGeometry x="8" y="43.7" width="162" height="16.7" as="geometry" />
         </mxCell>
-        <mxCell id="7d933b09d9755ecc-32" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="556" y="711" width="142" height="89" as="geometry" />
+        <mxCell id="mpq5AgpwV83IM184FDqD-39" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7500E-6C2-LC.svg;aspect=fixed;" vertex="1" parent="mpq5AgpwV83IM184FDqD-17">
+          <mxGeometry x="8" y="60.4" width="162" height="16.7" as="geometry" />
         </mxCell>
-        <mxCell id="7d933b09d9755ecc-33" value="Users" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.users;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="594" y="724" width="64.5" height="55" as="geometry" />
+        <mxCell id="mpq5AgpwV83IM184FDqD-40" value="Arista rack equipment layout" style="text;html=1;resizable=1;points=[];autosize=0;align=left;verticalAlign=top;spacingTop=-4;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="580" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7d933b09d9755ecc-34" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="594" y="578" width="65" height="85" as="geometry" />
+        <mxCell id="mpq5AgpwV83IM184FDqD-41" value="Location:" style="text;html=1;resizable=1;points=[];autosize=0;align=left;verticalAlign=middle;spacingTop=-4;fontSize=14;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="580" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7d933b09d9755ecc-35" value="User forest" style="triangle;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;direction=north;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="1405" y="460" width="286" height="340" as="geometry" />
-        </mxCell>
-        <mxCell id="7d933b09d9755ecc-36" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="1478" y="694" width="142" height="96" as="geometry" />
-        </mxCell>
-        <mxCell id="7d933b09d9755ecc-37" value="Users" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.users;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="1516" y="707" width="64.5" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="7d933b09d9755ecc-38" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="1516" y="561" width="65" height="85" as="geometry" />
-        </mxCell>
-        <mxCell id="7d933b09d9755ecc-39" style="edgeStyle=none;rounded=0;html=1;exitX=1;exitY=0.5;labelBackgroundColor=none;startFill=0;endArrow=block;endFill=1;strokeColor=#0000FF;strokeWidth=1;fontFamily=Verdana;fontSize=12;" parent="1" source="7d933b09d9755ecc-32" target="7d933b09d9755ecc-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7d933b09d9755ecc-40" style="edgeStyle=none;rounded=0;html=1;exitX=0;exitY=0.5;labelBackgroundColor=none;startFill=0;endArrow=block;endFill=1;strokeColor=#0000FF;strokeWidth=1;fontFamily=Verdana;fontSize=12;" parent="1" source="7d933b09d9755ecc-36" target="7d933b09d9755ecc-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7d933b09d9755ecc-41" value="Trust relationship" style="html=1;exitX=1;exitY=0.5;labelBackgroundColor=none;startFill=0;endArrow=block;endFill=1;strokeColor=#FF0000;strokeWidth=1;fontFamily=Verdana;fontSize=12;entryX=1;entryY=0.5;curved=1;" parent="1" source="7d933b09d9755ecc-14" target="7d933b09d9755ecc-31" edge="1">
-          <mxGeometry x="0.0622" relative="1" as="geometry">
-            <mxPoint x="660" y="490" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="890" y="270" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7d933b09d9755ecc-42" value="Trust relationship" style="html=1;exitX=1;exitY=0.5;entryX=1;entryY=0.5;labelBackgroundColor=none;startFill=0;endArrow=block;endFill=1;strokeColor=#FF0000;strokeWidth=1;fontFamily=Verdana;fontSize=12;curved=1;" parent="1" source="7d933b09d9755ecc-14" target="7d933b09d9755ecc-35" edge="1">
-          <mxGeometry x="0.3227" y="10" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1380" y="290" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7d933b09d9755ecc-43" value="Synchronization" style="edgeStyle=none;rounded=0;html=1;entryX=0.653;entryY=0.304;entryPerimeter=0;labelBackgroundColor=none;startFill=0;endArrow=block;endFill=1;strokeWidth=1;fontFamily=Verdana;fontSize=12;" parent="1" source="7d933b09d9755ecc-4" target="7d933b09d9755ecc-35" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7d933b09d9755ecc-44" value="Synchronization" style="edgeStyle=none;rounded=0;html=1;entryX=0.544;entryY=0.766;entryPerimeter=0;labelBackgroundColor=none;startFill=0;endArrow=block;endFill=1;strokeWidth=1;fontFamily=Verdana;fontSize=12;" parent="1" source="7d933b09d9755ecc-4" target="7d933b09d9755ecc-31" edge="1">
-          <mxGeometry x="-0.1797" y="19" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="mpq5AgpwV83IM184FDqD-42" value="Investor:" style="text;html=1;resizable=1;points=[];autosize=0;align=left;verticalAlign=middle;spacingTop=-4;fontSize=14;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="40" y="110" width="580" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
